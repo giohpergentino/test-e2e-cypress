@@ -6,7 +6,7 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: 'https://erickwendel.github.io/vanilla-js-web-app-example/',
+    baseUrl: 'https://js-web-app.vercel.app/',
     // Não vai limpar o estado da tela após cada it
     testIsolation: false
   },
